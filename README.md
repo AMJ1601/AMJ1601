@@ -62,7 +62,7 @@ GABINETE
 - **Compatibilidad** con la placa base Micro-ATX.
 - **Diseño simple**
 
-**Precio aprox.:** $19  
+**Precio aprox.:** 19  
 
 ---
 
@@ -76,4 +76,4 @@ GABINETE
 | **Fuente PSU**  | EVGA 450W 80 Plus White         | 48  |
 | **Gabinete**    | Torre PC Aerocool CS106      | 19 |
 
-### **Presupuesto total:** **$280** 
+### **Presupuesto total: 300** 
