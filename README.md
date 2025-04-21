@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Sobre mí
  <br><br>
-
+- 📚 Cursos realizados: SMR y ASIR
 - :trophy: Segundo puesto en rmskills2025 categoría de sistemas nivel regional.
 - :technologist: Me gusta crear mis propias herramientas para cualquier problema.
 - :computer: Trabajo con sistemas linux, docker, y redes.
